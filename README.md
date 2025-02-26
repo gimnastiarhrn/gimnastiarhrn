@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Gymnastiar Harun**.<br>
+
+Saya seorang Fresh Graduate dari Universitas Mulawarman Prodi Informatika.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gimnastiarharun/)ku ya.
+
 <!--
 **gimnastiarhrn/gimnastiarhrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
