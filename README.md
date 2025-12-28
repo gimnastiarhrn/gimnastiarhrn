@@ -19,4 +19,4 @@ Here are some of the projects I've been working on:
 ---
 
 ### 📊 GitHub Stats
-![Agim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimnastiarhrn)](https://github.com/anuraghazra/github-readme-stats)
+![Agim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimnastiarhrn&show_icons=true&theme=transparent)
